@@ -1,0 +1,9 @@
+export POSTGRES_USERNAME=dongntudacitydev
+export POSTGRES_PASSWORD=dongntudacitydev
+export POSTGRES_HOST=dongntudacitydev.cxxclyhk1pab.us-east-1.rds.amazonaws.com
+export POSTGRES_DB=postgres
+export AWS_REGION=us-east-1
+export AWS_PROFILE=default
+export AWS_S3BUCKET=fullstack-restapi-filestore
+export JWT_SECRET=donghelloudacity
+export URL=http://localhost:8100
